@@ -1,3 +1,7 @@
+# Date: 9/1/2020
+# This program is designed to alpahabetize and count the occurences of words in a given
+# .txt file and save them in a new .txt file
+# -Casey Caiza
 #! /usr/bin/env python3
 
 import sys        # command line arguments
